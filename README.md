@@ -7,7 +7,7 @@ This repository contains two primary components:
 The project focuses on automating tests for the **Magneto Web Application**. It covers several key scenarios to ensure the application’s functionality works correctly.
 
 **Project description:**
-- You’re required to create automated test scripts for this sample web application covering the following scenarios using Selenuim and Cucumber and your preferred scripting language (Java) covering the following scenarios: 
+- You’re required to create automated test scripts for this sample web application covering the following scenarios using **Selenuim WebDriver and Cucumber** and your preferred scripting language (Java) covering the following scenarios: 
 1. Login (positive and negative scenarios) 
 2. Register. 
 3. Landing page

@@ -21,7 +21,7 @@ The project focuses on automating tests for the **Magneto Web Application**. It 
 ## 2. Manual Testing Task for 3 User Stories
 -This repository also includes a **Manual testing excel file** 
 
-#**Manual Testing Tasks Contains**
+**Manual Testing Tasks Contains**:
 1. Product Filtering
     Test filtering by category on the shop page: selecting, clearing, dynamic updates, and compatibility across devices.
 

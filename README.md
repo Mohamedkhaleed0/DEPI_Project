@@ -1,3 +1,4 @@
+# DEPI-Automation-And-Manual-Testing-Project
 # Magento-Website-FE-Automation
 
 This repository contains two primary components:
@@ -14,7 +15,7 @@ The project focuses on automating tests for the **Magneto Web Application**. It 
 
 **Test Result**
 
-![1](https://github.com/user-attachments/assets/a55017b0-4ba4-45de-8999-fe35923a6318)
+![1](https://github.com/user-attachments/assets/c7913b8d-c751-4141-a09f-b19188e4fe42)
 
 
 ## 2. Manual test project for 3 user stories

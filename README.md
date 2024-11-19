@@ -42,6 +42,11 @@ The project focuses on automating tests for the **Magneto Web Application**. It 
 2. Software_Marketing_Presentation.pdf
 
 3. Software User Manual.pdf
+
+## 4. Recordings And Screenshots
+
+- This section includes automated test scripts for the Magento website. Screenshots and videos are attached to demonstrate the execution and results of test scenarios, ensuring the website's functionality and reliability.
+
    
    
 

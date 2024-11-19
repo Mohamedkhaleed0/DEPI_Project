@@ -18,8 +18,18 @@ The project focuses on automating tests for the **Magneto Web Application**. It 
 ![1](https://github.com/user-attachments/assets/c7913b8d-c751-4141-a09f-b19188e4fe42)
 
 
-## 2. Manual test project for 3 user stories
-This repository also includes a **Manual testing excel file** 
+## 2. Manual Testing Task for 3 User Stories
+-This repository also includes a **Manual testing excel file** 
+
+#**Manual Testing Tasks Contains**
+1. Product Filtering
+    Test filtering by category on the shop page: selecting, clearing, dynamic updates, and compatibility across devices.
+
+2. Passport Application
+    Verify online application: form access, validation, saving progress, submission, status tracking, and secure fee payment.
+
+3. Appointment Scheduling
+    Validate doctor appointment booking: slot selection, notifications, rescheduling, cancellations, and status updates.
 
 
 

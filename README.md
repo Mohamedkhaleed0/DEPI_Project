@@ -32,5 +32,18 @@ The project focuses on automating tests for the **Magneto Web Application**. It 
     Validate doctor appointment booking: slot selection, notifications, rescheduling, cancellations, and status updates.
 
 
+   
+## 3. Documentation file for the project 
+
+**Documentation includes** :
+
+1. Graduation_Project_Presentation_Content.pdf
+
+2. Software_Marketing_Presentation.pdf
+
+3. Software User Manual.pdf
+   
+   
+
 
 

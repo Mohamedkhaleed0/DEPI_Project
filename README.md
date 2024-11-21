@@ -47,6 +47,8 @@ The project focuses on automating tests for the **Magneto Web Application**. It 
 
 - This section includes automated test scripts for the Magento website. Screenshots and videos are attached to demonstrate the execution and results of test scenarios, ensuring the website's functionality and reliability.
 
+And this is the link for recordings : https://drive.google.com/drive/folders/1w1Fl8ljCHhUf9wZ2m4q_56H83tBiFstS
+
    
    
 
